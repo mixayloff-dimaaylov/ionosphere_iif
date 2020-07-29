@@ -1,5 +1,6 @@
 .gitattributes;644;user;user
 .permissions;644;user;user
+archives/bellsoft-jdk8u242+7-linux-amd64.deb;644;user;user
 archives/clickhouse-client_20.5.2.7_all.deb;644;user;user
 archives/clickhouse-common-static_20.5.2.7_amd64.deb;644;user;user
 archives/clickhouse-server_20.5.2.7_all.deb;644;user;user
